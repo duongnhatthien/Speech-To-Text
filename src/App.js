@@ -73,7 +73,7 @@ function App() {
                     headers: {
                         'Content-Type': 'multipart/form-data',
                         Authorization:
-                            'Bearer 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',
+                            'Bearer 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',
                     },
                 }
             );
