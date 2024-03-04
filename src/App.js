@@ -6,7 +6,7 @@ import axios from 'axios';
 import RecordRTC from 'recordrtc';
 import OpenAI from 'openai';
 const openai = new OpenAI({
-    apiKey: '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',
+    apiKey: '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',
     dangerouslyAllowBrowser: true,
 });
 const { Search } = Input;
@@ -73,7 +73,7 @@ function App() {
                     headers: {
                         'Content-Type': 'multipart/form-data',
                         Authorization:
-                            'Bearer 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',
+                            'Bearer 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',
                     },
                 }
             );
